@@ -1,0 +1,10 @@
+C:\Users\vladi\SharpProjects\IntegrLab4\ClientApp\bin\Debug\ClientApp.exe.config
+C:\Users\vladi\SharpProjects\IntegrLab4\ClientApp\bin\Debug\ClientApp.exe
+C:\Users\vladi\SharpProjects\IntegrLab4\ClientApp\bin\Debug\ClientApp.pdb
+C:\Users\vladi\SharpProjects\IntegrLab4\ClientApp\obj\Debug\ClientApp.csprojAssemblyReference.cache
+C:\Users\vladi\SharpProjects\IntegrLab4\ClientApp\obj\Debug\ClientApp.Form1.resources
+C:\Users\vladi\SharpProjects\IntegrLab4\ClientApp\obj\Debug\ClientApp.Properties.Resources.resources
+C:\Users\vladi\SharpProjects\IntegrLab4\ClientApp\obj\Debug\ClientApp.csproj.GenerateResource.cache
+C:\Users\vladi\SharpProjects\IntegrLab4\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\vladi\SharpProjects\IntegrLab4\ClientApp\obj\Debug\ClientApp.exe
+C:\Users\vladi\SharpProjects\IntegrLab4\ClientApp\obj\Debug\ClientApp.pdb

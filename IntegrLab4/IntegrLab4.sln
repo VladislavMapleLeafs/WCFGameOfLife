@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "IntegrLab4", "IntegrLab4\", "{936C4A88-773F-4C6C-8689-89A22B220847}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_58494"
+		Debug.AspNetCompiler.PhysicalPath = "IntegrLab4\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_58494\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_58494"
+		Release.AspNetCompiler.PhysicalPath = "IntegrLab4\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_58494\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "58494"
+		SlnRelativePath = "IntegrLab4\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientApp", "ClientApp\ClientApp.csproj", "{4D048595-08FD-4C70-AF47-668EEB2AAAD4}"
+	ProjectSection(ProjectDependencies) = postProject
+		{936C4A88-773F-4C6C-8689-89A22B220847} = {936C4A88-773F-4C6C-8689-89A22B220847}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{936C4A88-773F-4C6C-8689-89A22B220847}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{936C4A88-773F-4C6C-8689-89A22B220847}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{936C4A88-773F-4C6C-8689-89A22B220847}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{936C4A88-773F-4C6C-8689-89A22B220847}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{4D048595-08FD-4C70-AF47-668EEB2AAAD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D048595-08FD-4C70-AF47-668EEB2AAAD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D048595-08FD-4C70-AF47-668EEB2AAAD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D048595-08FD-4C70-AF47-668EEB2AAAD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04048E02-9FE7-43C4-9B1D-F5699150F865}
+	EndGlobalSection
+EndGlobal
